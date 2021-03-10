@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Train-Ticket-Booking/static/css/main.30662c81.chunk.css",
+    "main.js": "/Train-Ticket-Booking/static/js/main.7793610d.chunk.js",
+    "main.js.map": "/Train-Ticket-Booking/static/js/main.7793610d.chunk.js.map",
+    "runtime-main.js": "/Train-Ticket-Booking/static/js/runtime-main.3c4c0e4d.js",
+    "runtime-main.js.map": "/Train-Ticket-Booking/static/js/runtime-main.3c4c0e4d.js.map",
+    "static/css/2.150d169a.chunk.css": "/Train-Ticket-Booking/static/css/2.150d169a.chunk.css",
+    "static/js/2.9aa46b4d.chunk.js": "/Train-Ticket-Booking/static/js/2.9aa46b4d.chunk.js",
+    "static/js/2.9aa46b4d.chunk.js.map": "/Train-Ticket-Booking/static/js/2.9aa46b4d.chunk.js.map",
+    "static/js/3.c6945217.chunk.js": "/Train-Ticket-Booking/static/js/3.c6945217.chunk.js",
+    "static/js/3.c6945217.chunk.js.map": "/Train-Ticket-Booking/static/js/3.c6945217.chunk.js.map",
+    "index.html": "/Train-Ticket-Booking/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Train-Ticket-Booking/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.30662c81.chunk.css.map": "/Train-Ticket-Booking/static/css/main.30662c81.chunk.css.map",
+    "static/js/2.9aa46b4d.chunk.js.LICENSE.txt": "/Train-Ticket-Booking/static/js/2.9aa46b4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c4c0e4d.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.9aa46b4d.chunk.js",
+    "static/css/main.30662c81.chunk.css",
+    "static/js/main.7793610d.chunk.js"
+  ]
+}
